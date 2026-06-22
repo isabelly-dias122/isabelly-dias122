@@ -13,7 +13,7 @@ Tenho grande entusiasmo pelo ecossistema da tecnologia e busco me especializar p
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Já tive contato ou desenvolvi projetos com:
-* **Linguagens de Programação:**JavaScript, PHP, Kotlin.
+* **Linguagens de Programação:** JavaScript, PHP, Kotlin.
 * **Tecnologias Web:** HTML5, CSS3, Express.js, Node.js.
 * **Bancos de Dados:** MySQL.
 * **Ferramentas e Plataformas:** Git, GitHub, VS Code.
